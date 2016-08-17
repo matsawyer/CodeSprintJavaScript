@@ -1,0 +1,1 @@
+{"speed":10,"inputs":[{"time":"2016-09-11 11:00","temperature":25},{"time":"2016-09-11 12:00","temperature":35}],"endTime":"2016-09-11 12:30","initialTemperature":15}
