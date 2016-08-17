@@ -1,2 +1,2 @@
 # CodeSprintJavaScript
-AC unit configuration solution.
+Solution to the _difficult_ front end programming question.
